@@ -14,10 +14,10 @@
 
 // Launch window size x/y
 # ifndef WIND_X
-#  define WIND_X 1920
+#  define WIND_X 1000
 # endif
 # ifndef WIND_Y
-#  define WIND_Y 1920
+#  define WIND_Y 1000
 # endif
 
 // Color of vertices with height 0
