@@ -4,7 +4,11 @@ This is a temp description c:
 Some test maps are included in maps.
 To run program, do ./fdf maps/some-map.fdf
 
--- These are the default keypresses for a US keyboard
+To edit window size and other start values, 
+edit editeable_macros.h in the source folder.<br/>
+To edit key codes, do the same for key_codes.h.
+
+-- These are the default keypresses for a US keyboard --
 
 Rotate X = Q <br/>
 Rotate Y = W <br/>
