@@ -61,7 +61,6 @@ static inline void	initialize_obj_and_frame(t_object *obj, t_frameinfo *frame)
 {
 	obj->int_arr = 0;
 	obj->arr_len = 0;
-	obj->int_arr = 0;
 	obj->scale = OBJ_SCALE;
 	obj->height_scale = RELATIVE_H_SCALE;
 	obj->worldpos[0] = WIND_X / 2;
