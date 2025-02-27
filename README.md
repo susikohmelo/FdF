@@ -1,6 +1,8 @@
 # FdF
 FdF (Fil de Fer) is a simple program that renders a height map as a wireframe 3D object.
 
+<img src="https://github.com/susikohmelo/FdF/blob/main/readme_files/fdf42.gif" height="300" /><img src="https://github.com/susikohmelo/FdF/blob/main/readme_files/vertex.gif" height="300" />
+
 ## How to use
 
 To build the program, simply run ```make``` inside the directory.
