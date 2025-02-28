@@ -1,4 +1,4 @@
-# FdF <img align="left" src="https://github.com/susikohmelo/FdF/blob/main/readme_files/score_fdf.png" height="120"/>
+# FdF <img align="left" src="https://github.com/susikohmelo/FdF/blob/main/readme_files/score.png" height="120"/>
 FdF (Fil de Fer) is a program that renders a height map as a wireframe 3D object.<br/>
 This project was made from scratch using C, with a *very minimal* graphical library known as minilibx.
 
